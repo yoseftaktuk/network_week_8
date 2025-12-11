@@ -1,0 +1,7 @@
+Input IP: 172.16.45.200
+Subnet Mask: 255.255.240.0
+classless
+Network Address: 172.16.48.0
+Broadcast Address: 172.16.48.0
+Number of Hosts in this subnet: 4078
+CIDR Mask: /20
